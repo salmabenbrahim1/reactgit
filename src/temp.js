@@ -2,7 +2,7 @@
 const temp = 'temp';
 const temp2 = 'testing the testing branch';
 const temp3 = 'adding this to master branch';
-const tem4 = 'testiong the version control suppert of vs code';
+const tem4 = 'testing the version control support of vs code';
 
 
 
